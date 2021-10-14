@@ -1,0 +1,5 @@
+Inter: https://certificates.digitalinnovation.one/C35A1F44
+GFT: https://certificates.digitalinnovation.one/4E7FD819
+Santander: https://certificates.digitalinnovation.one/84ADAB32
+Avanade:https://certificates.digitalinnovation.one/BA5E70BE
+Capgemini:https://certificates.digitalinnovation.one/4FA08483
